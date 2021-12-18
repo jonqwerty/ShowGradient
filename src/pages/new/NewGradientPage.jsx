@@ -41,9 +41,9 @@ const NewGradientPage = () => {
 
     return(
         <div>
-            <div style={{color:'white'}}>Hex-code should start with #</div>
-            <div style={{color:'white'}}>Must contain 3 or 6 characters</div>
-            <div style={{color:'white'}}>Valid characters: 0-9, a-f, A-F</div>
+            <div style={{color:'black'}}>Hex-code should start with #</div>
+            <div style={{color:'black'}}>Must contain 3 or 6 characters</div>
+            <div style={{color:'black'}}>Valid characters: 0-9, a-f, A-F</div>
 
             {/* <form onSubmit={handleSubmit}>
                 <input title="hexOne" type="text"  onChange={handleChangeHexOne} />
