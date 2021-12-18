@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShowGradient/static/css/main.8b193d56.css",
+    "main.js": "/ShowGradient/static/js/main.a8a7186b.js",
+    "static/js/787.43f7615b.chunk.js": "/ShowGradient/static/js/787.43f7615b.chunk.js",
+    "index.html": "/ShowGradient/index.html",
+    "main.8b193d56.css.map": "/ShowGradient/static/css/main.8b193d56.css.map",
+    "main.a8a7186b.js.map": "/ShowGradient/static/js/main.a8a7186b.js.map",
+    "787.43f7615b.chunk.js.map": "/ShowGradient/static/js/787.43f7615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b193d56.css",
+    "static/js/main.a8a7186b.js"
+  ]
+}
