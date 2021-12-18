@@ -8,14 +8,14 @@ import { Provider } from 'react-redux'
 import store from './redux/redux-store'
 
 ReactDOM.render(
-  <BrowserRouter >
+  <HashRouter >
     <React.StrictMode>
       <Provider store= {store} >
         < App />
       </Provider>
       
     </React.StrictMode>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById('root')
 );
 
